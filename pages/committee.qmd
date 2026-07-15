@@ -1,0 +1,37 @@
+---
+title: "Program Committee"
+---
+
+# Program Committee
+
+The Program Committee of the **NeurIPS 2026 Workshop on AI for Chip Design** consists of researchers and practitioners from machine learning, electronic design automation, computer architecture, and semiconductor systems. Committee members will contribute to the peer-review process and help ensure high-quality, constructive feedback for all submissions.
+
+Outstanding reviewer/s will be recognized by the organizers with a free NeurIPS conference registration.
+
+## Program Committee Members
+
+The committee will be announced soon.
+
+
+## Reviewing Process
+
+All submissions will undergo **double-blind peer review**.
+
+Each submission will receive at least **three independent reviews**. Reviewers will evaluate submissions based on:
+
+- Relevance to the workshop
+- Technical quality
+- Originality
+- Clarity of presentation
+- Potential impact and contribution to the community
+
+## Reviewer Guidelines
+
+Reviewers are expected to:
+
+- Provide constructive and respectful feedback.
+- Maintain confidentiality of submitted manuscripts.
+- Avoid conflicts of interest.
+- Complete reviews within the assigned timeline.
+
+Reviewers must not use external generative AI systems to review submissions or process confidential paper content, in accordance with the NeurIPS 2026 policies.
