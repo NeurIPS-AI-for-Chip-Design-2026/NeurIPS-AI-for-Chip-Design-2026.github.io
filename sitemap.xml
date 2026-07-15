@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/sponsors.html</loc>
-    <lastmod>2026-07-14T19:37:23.012Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/committee.html</loc>
-    <lastmod>2026-07-14T19:37:23.009Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/speakers.html</loc>
-    <lastmod>2026-07-14T19:37:23.012Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/organizers.html</loc>
-    <lastmod>2026-07-14T19:37:23.012Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/cfp.html</loc>
-    <lastmod>2026-07-14T19:37:23.009Z</lastmod>
-  </url>
-  <url>
     <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/index.html</loc>
+    <lastmod>2026-07-15T13:01:21.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/pages/contact.html</loc>
+    <lastmod>2026-07-14T19:37:23.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/pages/speakers.html</loc>
     <lastmod>2026-07-14T19:37:23.012Z</lastmod>
   </url>
   <url>
-    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/contact.html</loc>
+    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/pages/organizers.html</loc>
+    <lastmod>2026-07-15T13:29:11.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/pages/cfp.html</loc>
+    <lastmod>2026-07-15T13:13:39.621Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/pages/committee.html</loc>
     <lastmod>2026-07-14T19:37:23.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/pages/sponsors.html</loc>
+    <lastmod>2026-07-14T19:37:23.012Z</lastmod>
   </url>
 </urlset>
