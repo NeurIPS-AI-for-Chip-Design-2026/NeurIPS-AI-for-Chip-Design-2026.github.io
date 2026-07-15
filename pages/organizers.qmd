@@ -1,0 +1,73 @@
+---
+title: "Organizers"
+---
+
+The **NeurIPS 2026 Workshop on AI for Chip Design** is organized by researchers from academia and industry working at the intersection of machine learning, electronic design automation, and semiconductor systems.
+
+## Organizing Committee
+
+::: {.columns}
+
+::: {.column}
+
+![](../images/organizers/dario.jpg){width=150}
+
+### Dario Garcia-Gasulla
+
+Barcelona Supercomputing Center (BSC)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=gBe4uPgAAAAJ)
+
+---
+
+### Gokcen Kestor
+
+Barcelona Supercomputing Center (BSC)
+
+[Website](#) · [Google Scholar](#)
+
+---
+
+### Emanuele Parisi
+
+Barcelona Supercomputing Center (BSC)
+
+[Website](#) · [Google Scholar](#)
+
+:::
+
+::: {.column}
+
+### Zhiyao Xie
+
+Hong Kong University of Science and Technology (HKUST)
+
+[Website](#) · [Google Scholar](#)
+
+---
+
+### Luca Benini
+
+ETH Zürich & Università di Bologna
+
+[Website](#) · [Google Scholar](#)
+
+---
+
+### Leigh Anne Clevenger
+
+Silicon Integration Initiative (Si2)
+
+[Website](#)
+
+---
+
+### Cong (Callie) Hao
+
+Georgia Institute of Technology
+
+[Website](#) · [Google Scholar](#)
+
+:::
+
+:::

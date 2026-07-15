@@ -1,14 +1,25 @@
 ---
-title: "NeurIPS 2026 Workshop: AI for Chip Design"
+title: ""
+page-layout: full
 ---
+
+
+
+::: {.column-page}
+
+![](images/other/banner.png){width=100%}
+
+:::
 
 # AI for Chip Design
 
+
 **NeurIPS 2026 Workshop**
 
-<!-- Add banner image here later -->
+**Date & Location:** December 2026, Paris, France.
 
-## Overview
+
+---
 
 This workshop brings together researchers and practitioners working at the intersection of artificial intelligence and semiconductor design.
 
@@ -16,14 +27,22 @@ The workshop will explore advances in machine learning methods for chip design, 
 
 The goal is to foster discussion between the machine learning, electronic design automation, and hardware communities, and to identify new opportunities for AI-enabled chip development.
 
+
+::: {.callout-important}
 ## Important Dates
 
 | Event | Date |
-|---|---|
-| Call for Papers | Coming soon |
-| Submission Deadline | TBD |
+|------|------|
+| Submission deadline | Early September |
 | Notification | September 29, 2026 |
 | Workshop | December 2026, NeurIPS 2026, Paris, France |
+:::
+
+## News
+
+- **July 2026** — Workshop accepted at NeurIPS 2026, Paris venue.
+- Call for Papers coming soon.
+
 
 ## Submission
 
@@ -44,10 +63,6 @@ Topics include, but are not limited to:
 - AI agents for design automation
 - Verification and validation using AI
 - Open-source tools and datasets for AI-driven chip design
-
-## Organizers
-
-See the [Organizers](organizers.qmd) page for details.
 
 ## Contact
 

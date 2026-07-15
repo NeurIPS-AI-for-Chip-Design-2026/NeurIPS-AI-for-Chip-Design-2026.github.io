@@ -1,0 +1,105 @@
+---
+title: "Call for Papers"
+---
+
+## AI for Chip Design - NeurIPS 2026 Workshop (Paris, France)
+
+## Overview
+
+Recent years have seen a surge of machine learning contributions across the chip design stack, tackling one of the most complex and consequential challenges in computer science today. Despite this momentum, the machine learning and electronic design automation (EDA) communities remain largely disconnected.
+
+This workshop brings both communities together at a pivotal moment, when semiconductor design sits at the center of global economic and strategic priorities, hardware designer shortages are acute, and AI-driven design tools are approaching production readiness.
+
+We invite submissions describing novel research, applications, systems, datasets, and position papers at the intersection of machine learning and chip/electronic design automation.
+
+::: {.callout-important}
+## Important Dates
+
+| Event | Date |
+| --- | --- |
+| Paper & Poster Submission | **September 4, 2026 (AoE)** |
+| Notification | **September 29, 2026 (AoE)** |
+| Camera-ready Deadline | **October 9, 2026 (AoE)** |
+| Workshop | **TBD · NeurIPS 2026, Paris** |
+:::
+
+## Topics of Interest
+
+Topics include, but are not limited to:
+
+- Machine learning for physical design: placement, routing, and floorplanning
+- Timing, power, and area prediction and optimization
+- Graph neural networks for circuits and netlists
+- Generative models (e.g., diffusion, flow matching) for layout and design
+- Reinforcement learning for EDA tasks, including script generation, testbench production, and module completion
+- Large language models and foundation models for hardware description languages (Verilog, VHDL, and SystemVerilog)
+- Agentic systems for chip design workflows with tool use (linters, synthesizers, simulators, timing analyzers, etc.)
+- Reproducible benchmarks, datasets, and open-source infrastructure
+- Societal, educational, and workforce aspects of AI-driven chip design
+
+We particularly encourage submissions that promote reproducibility through open-source code, datasets, model weights, evaluation frameworks, or other openly available research artifacts.
+
+## Submission Tracks
+
+| Track | Length | Format |
+| --- | --- | --- |
+| Research Papers | 8–9 pages | NeurIPS format |
+| Poster Papers | 3–4 pages | NeurIPS format |
+
+### Submission Notes
+
+- Page limits exclude references.
+- All submissions will receive **at least three double-blind reviews**.
+- Authors may opt for **archival** or **non-archival** publication at submission time.
+- Poster submissions may include position papers, exploratory work, highly experimental research, or applied research contributions.
+
+## Submission Instructions
+
+Submissions will be managed through **OpenReview**.
+
+**Submission portal:** *Coming soon.*
+
+Please use the official NeurIPS 2026 style files and formatting guidelines.
+
+## Review Process
+
+Submissions will be evaluated based on:
+
+- Relevance to the workshop
+- Technical quality
+- Originality
+- Clarity
+- Potential to stimulate discussion and future research
+
+## Workshop Format
+
+The workshop will be held as a **full-day, in-person event** at NeurIPS 2026 and will feature:
+
+- Invited keynote talks
+- Contributed paper presentations
+- Poster sessions
+- Best Paper and Best Poster awards
+- A moderated panel discussion
+
+## Invited Speakers
+
+Confirmed speakers include:
+
+- **Xing Hu** — Institute of Computing Technology, Chinese Academy of Sciences
+- **Subhasish Mitra** — Stanford University
+
+Additional speakers will be announced soon.
+
+## AI Policies
+
+This workshop follows the **NeurIPS 2026** policies regarding the use of Large Language Models (LLMs).
+
+### For Authors
+
+Authors may use LLMs in accordance with the [NeurIPS 2026 policy](https://neurips.cc/Conferences/2026/MainTrackHandbook). Authors remain fully responsible for the correctness, originality, and integrity of their submissions. Papers containing fabricated, hallucinated, or misleading content may be rejected.
+
+### For Reviewers
+
+Reviewers **must not** use LLMs or other generative AI systems to review submissions or upload confidential manuscripts to external AI services. This workshop does **not** adopt the optional AI-assisted reviewing experiment described for parts of the NeurIPS 2026 main conference.
+```
+

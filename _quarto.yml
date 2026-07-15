@@ -1,31 +1,38 @@
 project:
   type: website
 
+
+
 website:
-  title: "NeurIPS - AI for Chip Design 2026"
+  title: "AI for Chip Design"
 
   navbar:
+    pinned: true
+
     left:
       - href: index.qmd
         text: Home
-
-      - href: cfp.qmd
+      - href: pages/cfp.qmd
         text: Call for Papers
-
-      - href: organizers.qmd
+      - href: pages/organizers.qmd
         text: Organizers
-
-      - href: speakers.qmd
+      - href: pages/speakers.qmd
         text: Speakers
-
-      - href: committee.qmd
+      - href: pages/committee.qmd
         text: Program Committee
-
-      - href: sponsors.qmd
+      - href: pages/sponsors.qmd
         text: Sponsors
 
-      - href: contact.qmd
+    right:
+      - href: pages/contact.qmd
         text: Contact
+
+  page-footer:
+    left: |
+      AI for Chip Design — NeurIPS 2026 Workshop
+
+    right: |
+      [NeurIPS 2026](https://neurips.cc)
 
 format:
   html:
