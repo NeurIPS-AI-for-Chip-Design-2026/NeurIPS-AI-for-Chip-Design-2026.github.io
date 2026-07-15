@@ -137,7 +137,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#organizing-committee" id="toc-organizing-committee" class="nav-link active" data-scroll-target="#organizing-committee">Organizing Committee</a></li>
+  <li><a href="#organizers" id="toc-organizers" class="nav-link active" data-scroll-target="#organizers">Organizers</a>
+  <ul class="collapse">
+  <li><a href="#organizing-committee" id="toc-organizing-committee" class="nav-link" data-scroll-target="#organizing-committee">Organizing Committee</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -163,12 +166,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="organizers" class="level1">
+<h1>Organizers</h1>
 <p>The <strong>NeurIPS 2026 Workshop on AI for Chip Design</strong> is organized by researchers from academia and industry working at the intersection of machine learning, electronic design automation, and semiconductor systems.</p>
 <section id="organizing-committee" class="level2">
 <h2 class="anchored" data-anchor-id="organizing-committee">Organizing Committee</h2>
 <div class="columns">
 <div class="column">
-<p><img src="../images/organizers/dario.jpg" class="img-fluid" width="150"></p>
 <section id="dario-garcia-gasulla" class="level3">
 <h3 class="anchored" data-anchor-id="dario-garcia-gasulla">Dario Garcia-Gasulla</h3>
 <p>Barcelona Supercomputing Center (BSC)</p>
@@ -214,6 +218,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -290,7 +295,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/NeurIPS-AI-for-Chip-Design-2026\.github\.io\/webpage\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

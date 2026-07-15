@@ -66,5 +66,5 @@ Topics include, but are not limited to:
 
 ## Contact
 
-For questions, please contact: dario.garcia@bsc.es
+For questions, please contact: neurips-ai-chip-design-2026@bsc.es
 
