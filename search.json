@@ -96,5 +96,33 @@
     "title": "Call for Papers",
     "section": "AI Policies",
     "text": "AI Policies\nThis workshop follows the NeurIPS 2026 policies regarding the use of Large Language Models (LLMs).\n\nFor Authors\nAuthors may use LLMs in accordance with the NeurIPS 2026 policy. Authors remain fully responsible for the correctness, originality, and integrity of their submissions. Papers containing fabricated, hallucinated, or misleading content may be rejected.\n\n\nFor Reviewers\nReviewers must not use LLMs or other generative AI systems to review submissions or upload confidential manuscripts to external AI services. This workshop does not adopt the optional AI-assisted reviewing experiment described for parts of the NeurIPS 2026 main conference. ```"
+  },
+  {
+    "objectID": "pages/committee.html",
+    "href": "pages/committee.html",
+    "title": "Program Committee",
+    "section": "",
+    "text": "The Program Committee of the NeurIPS 2026 Workshop on AI for Chip Design consists of researchers and practitioners from machine learning, electronic design automation, computer architecture, and semiconductor systems. Committee members will contribute to the peer-review process and help ensure high-quality, constructive feedback for all submissions.\nOutstanding reviewer/s will be recognized by the organizers with a free NeurIPS conference registration.\n\n\nThe committee will be announced soon.\n\n\n\nAll submissions will undergo double-blind peer review.\nEach submission will receive at least three independent reviews. Reviewers will evaluate submissions based on:\n\nRelevance to the workshop\nTechnical quality\nOriginality\nClarity of presentation\nPotential impact and contribution to the community\n\n\n\n\nReviewers are expected to:\n\nProvide constructive and respectful feedback.\nMaintain confidentiality of submitted manuscripts.\nAvoid conflicts of interest.\nComplete reviews within the assigned timeline.\n\nReviewers must not use external generative AI systems to review submissions or process confidential paper content, in accordance with the NeurIPS 2026 policies."
+  },
+  {
+    "objectID": "pages/committee.html#program-committee-members",
+    "href": "pages/committee.html#program-committee-members",
+    "title": "Program Committee",
+    "section": "",
+    "text": "The committee will be announced soon."
+  },
+  {
+    "objectID": "pages/committee.html#reviewing-process",
+    "href": "pages/committee.html#reviewing-process",
+    "title": "Program Committee",
+    "section": "",
+    "text": "All submissions will undergo double-blind peer review.\nEach submission will receive at least three independent reviews. Reviewers will evaluate submissions based on:\n\nRelevance to the workshop\nTechnical quality\nOriginality\nClarity of presentation\nPotential impact and contribution to the community"
+  },
+  {
+    "objectID": "pages/committee.html#reviewer-guidelines",
+    "href": "pages/committee.html#reviewer-guidelines",
+    "title": "Program Committee",
+    "section": "",
+    "text": "Reviewers are expected to:\n\nProvide constructive and respectful feedback.\nMaintain confidentiality of submitted manuscripts.\nAvoid conflicts of interest.\nComplete reviews within the assigned timeline.\n\nReviewers must not use external generative AI systems to review submissions or process confidential paper content, in accordance with the NeurIPS 2026 policies."
   }
 ]
