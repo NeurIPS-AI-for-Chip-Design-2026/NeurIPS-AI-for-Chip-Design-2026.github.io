@@ -1,3 +1,5 @@
+<p align="center"> <img src="images/other/banner.png" alt="NeurIPS 2026 Workshop on AI for Chip Design" width="100%"> </p>
+
 # NeurIPS 2026 Workshop on AI for Chip Design
 
 This repository contains the source code for the official website of the **NeurIPS 2026 Workshop on AI for Chip Design**.
