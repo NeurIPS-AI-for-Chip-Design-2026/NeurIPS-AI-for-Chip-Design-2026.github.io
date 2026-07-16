@@ -1,1 +1,1 @@
-Sitemap: https://NeurIPS-AI-for-Chip-Design-2026.github.io/webpage/sitemap.xml
+Sitemap: https://NeurIPS-AI-for-Chip-Design-2026.github.io/sitemap.xml
