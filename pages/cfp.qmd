@@ -2,7 +2,7 @@
 title: "Call for Papers"
 ---
 
-## AI for Chip Design - NeurIPS 2026 Workshop (Paris, France)
+![](../images/other/banner.png){width=100%}
 
 ## Overview
 
@@ -38,20 +38,6 @@ Topics include, but are not limited to:
 - Societal, educational, and workforce aspects of AI-driven chip design
 
 We particularly encourage submissions that promote reproducibility through open-source code, datasets, model weights, evaluation frameworks, or other openly available research artifacts.
-
-## Submission Tracks
-
-| Track | Length | Format |
-| --- | --- | --- |
-| Research Papers | 8–9 pages | NeurIPS format |
-| Poster Papers | 3–4 pages | NeurIPS format |
-
-### Submission Notes
-
-- Page limits exclude references.
-- All submissions will receive **at least three double-blind reviews**.
-- Authors may opt for **archival** or **non-archival** publication at submission time.
-- Poster submissions may include position papers, exploratory work, highly experimental research, or applied research contributions.
 
 ## Submission Instructions
 
@@ -90,16 +76,27 @@ Confirmed speakers include:
 
 Additional speakers will be announced soon.
 
-## AI Policies
+## Submission Details {.panel-tabset}
 
+### Tracks
+| Track | Length | Format |
+| --- | --- | --- |
+| Research Papers | 8–9 pages | NeurIPS format |
+| Poster Papers | 3–4 pages | NeurIPS format |
+
+**Submission Notes:**
+
+- Page limits exclude references.
+- All submissions will receive **at least three double-blind reviews**.
+- Authors may opt for **archival** or **non-archival** publication at submission time.
+- Poster submissions may include position papers, exploratory work, highly experimental research, or applied research contributions.
+
+### AI Policies
 This workshop follows the **NeurIPS 2026** policies regarding the use of Large Language Models (LLMs).
 
-### For Authors
-
+**For Authors:**
 Authors may use LLMs in accordance with the [NeurIPS 2026 policy](https://neurips.cc/Conferences/2026/MainTrackHandbook). Authors remain fully responsible for the correctness, originality, and integrity of their submissions. Papers containing fabricated, hallucinated, or misleading content may be rejected.
 
-### For Reviewers
-
+**For Reviewers:**
 Reviewers **must not** use LLMs or other generative AI systems to review submissions or upload confidential manuscripts to external AI services. This workshop does **not** adopt the optional AI-assisted reviewing experiment described for parts of the NeurIPS 2026 main conference.
-```
 

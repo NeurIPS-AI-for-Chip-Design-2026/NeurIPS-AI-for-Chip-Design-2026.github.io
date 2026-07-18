@@ -2,7 +2,9 @@
 title: "Program Committee"
 ---
 
-The Program Committee of the **NeurIPS 2026 Workshop on AI for Chip Design** consists of researchers and practitioners from machine learning, electronic design automation, computer architecture, and semiconductor systems. Committee members will contribute to the peer-review process and help ensure high-quality, constructive feedback for all submissions.
+![](../images/other/banner.png){width=100%}
+
+The Program Committee of the NeurIPS 2026 Workshop on AI for Chip Design consists of researchers and practitioners from machine learning, electronic design automation, computer architecture, and semiconductor systems. Committee members will contribute to the peer-review process and help ensure high-quality, constructive feedback for all submissions.
 
 Outstanding reviewer/s will be recognized by the organizers with a free NeurIPS conference registration.
 

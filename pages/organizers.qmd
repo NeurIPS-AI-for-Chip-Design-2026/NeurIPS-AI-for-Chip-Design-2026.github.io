@@ -2,7 +2,9 @@
 title: "Organizers"
 ---
 
-The **NeurIPS 2026 Workshop on AI for Chip Design** is organized by researchers from academia and industry working at the intersection of machine learning, electronic design automation, and semiconductor systems.
+![](../images/other/banner.png){width=100%}
+
+The NeurIPS 2026 Workshop on AI for Chip Design is organized by researchers from academia and industry working at the intersection of machine learning, electronic design automation, and semiconductor systems.
 
 ## Organizing Committee
 

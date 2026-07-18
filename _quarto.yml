@@ -10,8 +10,6 @@ website:
     pinned: true
 
     left:
-      - href: index.qmd
-        text: Home
       - href: pages/cfp.qmd
         text: Call for Papers
       - href: pages/organizers.qmd

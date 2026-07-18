@@ -92,10 +92,6 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./pages/cfp.html"> 
 <span class="menu-text">Call for Papers</span></a>
   </li>  
@@ -137,29 +133,53 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ai-for-chip-design" id="toc-ai-for-chip-design" class="nav-link active" data-scroll-target="#ai-for-chip-design">AI for Chip Design</a>
-  <ul class="collapse">
-  <li><a href="#news" id="toc-news" class="nav-link" data-scroll-target="#news">News</a></li>
+  <li><a href="#news" id="toc-news" class="nav-link active" data-scroll-target="#news">News</a></li>
   <li><a href="#submission" id="toc-submission" class="nav-link" data-scroll-target="#submission">Submission</a></li>
   <li><a href="#topics-of-interest" id="toc-topics-of-interest" class="nav-link" data-scroll-target="#topics-of-interest">Topics of Interest</a></li>
-  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
-  </ul></li>
+  <li><a href="#contact-1" id="toc-contact-1" class="nav-link" data-scroll-target="#contact-1">Contact</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full column-body" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
-<div class="column-page">
-<p><img src="images/other/banner.png" class="img-fluid" style="width:100.0%"></p>
-</div>
+<div class="hero">
+<p><img src="images/other/banner_unamed.png" class="img-fluid" style="width:100.0%"></p>
 <section id="ai-for-chip-design" class="level1">
 <h1>AI for Chip Design</h1>
-<p><strong>NeurIPS 2026 Workshop</strong></p>
-<p><strong>Date &amp; Location:</strong> December 2026, Paris, France.</p>
+<p><strong>NeurIPS 2026 Workshop</strong><br>
+<strong>Date &amp; Location:</strong> December 2026, Paris, France.</p>
+</section>
+</div>
+<div class="quick-links-grid">
+<section id="call-for-papers" class="level3 quick-link-card">
+<h3 class="anchored" data-anchor-id="call-for-papers"><a href="./pages/cfp.html">Call for Papers</a></h3>
+<p>Submit your latest research in AI-driven chip design.</p>
+</section>
+<section id="organizers" class="level3 quick-link-card">
+<h3 class="anchored" data-anchor-id="organizers"><a href="./pages/organizers.html">Organizers</a></h3>
+<p>Meet the team behind the workshop.</p>
+</section>
+<section id="speakers" class="level3 quick-link-card">
+<h3 class="anchored" data-anchor-id="speakers"><a href="./pages/speakers.html">Speakers</a></h3>
+<p>View our list of invited experts.</p>
+</section>
+<section id="committee" class="level3 quick-link-card">
+<h3 class="anchored" data-anchor-id="committee"><a href="./pages/committee.html">Committee</a></h3>
+<p>Our program committee and reviewers.</p>
+</section>
+<section id="sponsors" class="level3 quick-link-card">
+<h3 class="anchored" data-anchor-id="sponsors"><a href="./pages/sponsors.html">Sponsors</a></h3>
+<p>Our partners and supporters.</p>
+</section>
+<section id="contact" class="level3 quick-link-card">
+<h3 class="anchored" data-anchor-id="contact"><a href="./pages/contact.html">Contact</a></h3>
+<p>Get in touch with the organizers.</p>
+</section>
+</div>
 <hr>
 <p>This workshop brings together researchers and practitioners working at the intersection of artificial intelligence and semiconductor design.</p>
 <p>The workshop will explore advances in machine learning methods for chip design, including emerging AI-driven approaches for design automation, optimization, verification, and hardware-aware learning.</p>
@@ -225,12 +245,11 @@ ul.task-list li input[type="checkbox"] {
 <li>Open-source tools and datasets for AI-driven chip design</li>
 </ul>
 </section>
-<section id="contact" class="level2">
-<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<section id="contact-1" class="level2">
+<h2 class="anchored" data-anchor-id="contact-1">Contact</h2>
 <p>For questions, please contact: neurips-ai-chip-design-2026@bsc.es</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -307,7 +326,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/NeurIPS-AI-for-Chip-Design-2026\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

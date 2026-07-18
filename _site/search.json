@@ -124,5 +124,47 @@
     "title": "Program Committee",
     "section": "Reviewer Guidelines",
     "text": "Reviewer Guidelines\nReviewers are expected to:\n\nProvide constructive and respectful feedback.\nMaintain confidentiality of submitted manuscripts.\nAvoid conflicts of interest.\nComplete reviews within the assigned timeline.\n\nReviewers must not use external generative AI systems to review submissions or process confidential paper content, in accordance with the NeurIPS 2026 policies."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI for Chip Design",
+    "section": "",
+    "text": "NeurIPS 2026 Workshop\nDate & Location: December 2026, Paris, France.\nThis workshop brings together researchers and practitioners working at the intersection of artificial intelligence and semiconductor design.\nThe workshop will explore advances in machine learning methods for chip design, including emerging AI-driven approaches for design automation, optimization, verification, and hardware-aware learning.\nThe goal is to foster discussion between the machine learning, electronic design automation, and hardware communities, and to identify new opportunities for AI-enabled chip development."
+  },
+  {
+    "objectID": "index.html#contact-1",
+    "href": "index.html#contact-1",
+    "title": "AI for Chip Design",
+    "section": "Contact",
+    "text": "Contact\nFor questions, please contact: neurips-ai-chip-design-2026@bsc.es"
+  },
+  {
+    "objectID": "pages/cfp.html#submission-details",
+    "href": "pages/cfp.html#submission-details",
+    "title": "Call for Papers",
+    "section": "Submission Details",
+    "text": "Submission Details\n\nTracks\n\n\n\nTrack\nLength\nFormat\n\n\n\n\nResearch Papers\n8–9 pages\nNeurIPS format\n\n\nPoster Papers\n3–4 pages\nNeurIPS format\n\n\n\nSubmission Notes:\n\nPage limits exclude references.\nAll submissions will receive at least three double-blind reviews.\nAuthors may opt for archival or non-archival publication at submission time.\nPoster submissions may include position papers, exploratory work, highly experimental research, or applied research contributions.\n\n\n\nAI Policies\nThis workshop follows the NeurIPS 2026 policies regarding the use of Large Language Models (LLMs).\nFor Authors: Authors may use LLMs in accordance with the NeurIPS 2026 policy. Authors remain fully responsible for the correctness, originality, and integrity of their submissions. Papers containing fabricated, hallucinated, or misleading content may be rejected.\nFor Reviewers: Reviewers must not use LLMs or other generative AI systems to review submissions or upload confidential manuscripts to external AI services. This workshop does not adopt the optional AI-assisted reviewing experiment described for parts of the NeurIPS 2026 main conference."
+  },
+  {
+    "objectID": "pages/sponsors.html",
+    "href": "pages/sponsors.html",
+    "title": "Sponsors",
+    "section": "",
+    "text": "Our sponsors will be announced soon."
+  },
+  {
+    "objectID": "pages/speakers.html",
+    "href": "pages/speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Our invited speakers will be announced soon."
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For questions, please contact: neurips-ai-chip-design-2026@bsc.es"
   }
 ]
