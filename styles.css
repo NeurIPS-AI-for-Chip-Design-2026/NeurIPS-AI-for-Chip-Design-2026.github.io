@@ -1,1 +1,158 @@
-/* css styles */
+/* Color Palette */
+:root {
+  --primary-color: #333333;    /* Dark Charcoal for a neutral, professional look */
+  --accent-color: #e67e22;     /* Warm Orange to match banner */
+  --text-color: #333333;
+  --light-bg: #f8f9fa;
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+  color: var(--primary-color);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid var(--accent-color);
+  padding-bottom: 10px;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+h2::after {
+  content: "";
+  flex: 1;
+  margin-left: 15px;
+  height: 1px;
+  background: #ddd;
+}
+
+/* Navbar & Brand elements */
+.navbar {
+  background-color: var(--primary-color) !important;
+  border-bottom: 4px solid var(--accent-color);
+}
+
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-weight: 700;
+}
+
+.navbar-nav .nav-link.active {
+  color: var(--accent-color) !important;
+  font-weight: bold;
+}
+
+/* Callout optimization */
+.callout-important {
+  border-left-color: var(--accent-color) !important;
+  background-color: #fffbf5 !important;
+}
+
+.callout-important .callout-header {
+  background-color: var(--accent-color) !important;
+  color: white !important;
+}
+
+/* Footer */
+footer {
+  background-color: var(--primary-color);
+  color: white !important;
+  padding: 2rem 0;
+}
+
+footer a {
+  color: var(--accent-color) !important;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+th {
+  background-color: var(--primary-color);
+  color: white !important;
+  text-align: left;
+  padding: 12px;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+tr:nth-child(even) {
+  background-color: var(--light-bg);
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 2rem 0;
+  background-color: var(--light-bg);
+  margin-bottom: 2rem;
+  border-radius: 8px;
+}
+
+.hero h1 {
+  border-bottom: none;
+  font-size: 3rem;
+  margin-top: 1rem;
+}
+
+/* Quick Links Grid */
+.quick-links-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.quick-link-card {
+  padding: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  background: white;
+}
+
+.quick-link-card:hover {
+  border-color: var(--accent-color);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transform: translateY(-5px);
+}
+
+.quick-link-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.quick-link-card a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+.quick-link-card a:hover {
+  text-decoration: underline;
+}
