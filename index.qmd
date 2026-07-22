@@ -58,13 +58,14 @@ The goal is to foster discussion between the machine learning, electronic design
 |------|------|
 | Submission deadline | Early September |
 | Notification | September 29, 2026 |
-| Workshop | December 2026, NeurIPS 2026, Paris, France |
+| Workshop | December 12th, NeurIPS 2026, Paris, France |
 :::
 
 ## News
 
-- **July 2026** — Workshop accepted at NeurIPS 2026, Paris venue.
-- Call for Papers coming soon.
+- **July 12th 2026** - Workshop accepted at NeurIPS 2026, Paris venue.
+- **July 22nd 2026** - Call for Papers published
+- **July 26th 2026** - Submission site open
 
 ## Submission
 
