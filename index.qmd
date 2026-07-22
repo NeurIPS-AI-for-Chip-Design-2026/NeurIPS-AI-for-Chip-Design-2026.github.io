@@ -55,10 +55,11 @@ The goal is to foster discussion between the machine learning, electronic design
 ## Important Dates
 
 | Event | Date |
-|------|------|
-| Submission deadline | Early September |
-| Notification | September 29, 2026 |
-| Workshop | December 12th, NeurIPS 2026, Paris, France |
+| --- | --- |
+| Paper & Poster Submission | **August 30, 2026 (AoE)** |
+| Notification | **September 29, 2026 (AoE)** |
+| Camera-ready Deadline | **October 9, 2026 (AoE)** |
+| Workshop | **December 12th or 13th (TBC) 2026, Paris** |
 :::
 
 ## News
