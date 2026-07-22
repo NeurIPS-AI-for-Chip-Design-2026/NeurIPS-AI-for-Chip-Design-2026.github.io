@@ -78,15 +78,18 @@ The submission link and detailed instructions will be announced soon.
 
 Topics include, but are not limited to:
 
-- AI for electronic design automation
-- Machine learning for chip optimization
-- AI-assisted hardware design
-- Neural architectures for hardware efficiency
-- Hardware-aware machine learning
-- Large language models for chip design
-- AI agents for design automation
-- Verification and validation using AI
-- Open-source tools and datasets for AI-driven chip design
+ * Machine learning for physical design: placement, routing, and floorplanning
+ * Timing, power, and area prediction and optimization
+ * Graph neural networks for circuits and netlists
+ * Generative models (e.g., diffusion, flow matching) for layout and design
+ * Reinforcement learning for EDA tasks, including script generation, testbench production, and module completion
+ * Large language models and foundation models for hardware description languages (Verilog, VHDL, and SystemVerilog)
+ * Agentic systems for chip design workflows with tool use (linters, synthesizers, simulators, timing analyzers, etc.)
+ * Reproducible benchmarks, datasets, and open-source infrastructure
+ * Societal, educational, and workforce aspects of AI-driven chip design
+
+We particularly encourage submissions that promote reproducibility through open-source code, datasets, model weights, evaluation frameworks, or other openly available research artifacts.
+
 
 ## Contact
 
