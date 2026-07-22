@@ -25,7 +25,7 @@
     "href": "index.html#topics-of-interest",
     "title": "AI for Chip Design",
     "section": "Topics of Interest",
-    "text": "Topics of Interest\nTopics include, but are not limited to:\n\nAI for electronic design automation\nMachine learning for chip optimization\nAI-assisted hardware design\nNeural architectures for hardware efficiency\nHardware-aware machine learning\nLarge language models for chip design\nAI agents for design automation\nVerification and validation using AI\nOpen-source tools and datasets for AI-driven chip design"
+    "text": "Topics of Interest\nTopics include, but are not limited to:\n\nMachine learning for physical design: placement, routing, and floorplanning\nTiming, power, and area prediction and optimization\nGraph neural networks for circuits and netlists\nGenerative models (e.g., diffusion, flow matching) for layout and design\nReinforcement learning for EDA tasks, including script generation, testbench production, and module completion\nLarge language models and foundation models for hardware description languages (Verilog, VHDL, and SystemVerilog)\nAgentic systems for chip design workflows with tool use (linters, synthesizers, simulators, timing analyzers, etc.)\nReproducible benchmarks, datasets, and open-source infrastructure\nSocietal, educational, and workforce aspects of AI-driven chip design\n\nWe particularly encourage submissions that promote reproducibility through open-source code, datasets, model weights, evaluation frameworks, or other openly available research artifacts."
   },
   {
     "objectID": "index.html#contact-1",
