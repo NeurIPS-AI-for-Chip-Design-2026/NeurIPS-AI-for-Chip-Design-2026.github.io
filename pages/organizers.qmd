@@ -18,7 +18,7 @@ The NeurIPS 2026 Workshop on AI for Chip Design is organized by researchers from
 
 Barcelona Supercomputing Center (BSC)
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=gBe4uPgAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=gBe4uPgAAAAJ) | [LinkedIn](https://www.linkedin.com/in/dario-garcia-gasulla-7774774a/)
 
 ---
 
@@ -50,9 +50,11 @@ Hong Kong University of Science and Technology (HKUST)
 
 ### Luca Benini
 
+![](../images/organizers/luca.jpg){width=150}
+
 ETH Zürich & Università di Bologna
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) | [LinkedIn](https://www.linkedin.com/in/lubenini/)
 
 ---
 
