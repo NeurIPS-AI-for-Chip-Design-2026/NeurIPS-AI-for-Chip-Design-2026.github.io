@@ -203,16 +203,20 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Submission deadline</td>
-<td>Early September</td>
+<td>Paper &amp; Poster Submission</td>
+<td><strong>August 30, 2026 (AoE)</strong></td>
 </tr>
 <tr class="even">
 <td>Notification</td>
-<td>September 29, 2026</td>
+<td><strong>September 29, 2026 (AoE)</strong></td>
 </tr>
 <tr class="odd">
+<td>Camera-ready Deadline</td>
+<td><strong>October 9, 2026 (AoE)</strong></td>
+</tr>
+<tr class="even">
 <td>Workshop</td>
-<td>December 2026, NeurIPS 2026, Paris, France</td>
+<td><strong>December 12th or 13th (TBC) 2026, Paris</strong></td>
 </tr>
 </tbody>
 </table>
@@ -221,8 +225,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="news" class="level2">
 <h2 class="anchored" data-anchor-id="news">News</h2>
 <ul>
-<li><strong>July 2026</strong> — Workshop accepted at NeurIPS 2026, Paris venue.</li>
-<li>Call for Papers coming soon.</li>
+<li><strong>July 26th 2026</strong> - Submission site open</li>
+<li><strong>July 22nd 2026</strong> - Call for Papers published</li>
+<li><strong>July 12th 2026</strong> - Workshop accepted at NeurIPS 2026, Paris venue.</li>
 </ul>
 </section>
 <section id="submission" class="level2">
@@ -234,16 +239,17 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="topics-of-interest">Topics of Interest</h2>
 <p>Topics include, but are not limited to:</p>
 <ul>
-<li>AI for electronic design automation</li>
-<li>Machine learning for chip optimization</li>
-<li>AI-assisted hardware design</li>
-<li>Neural architectures for hardware efficiency</li>
-<li>Hardware-aware machine learning</li>
-<li>Large language models for chip design</li>
-<li>AI agents for design automation</li>
-<li>Verification and validation using AI</li>
-<li>Open-source tools and datasets for AI-driven chip design</li>
+<li>Machine learning for physical design: placement, routing, and floorplanning</li>
+<li>Timing, power, and area prediction and optimization</li>
+<li>Graph neural networks for circuits and netlists</li>
+<li>Generative models (e.g., diffusion, flow matching) for layout and design</li>
+<li>Reinforcement learning for EDA tasks, including script generation, testbench production, and module completion</li>
+<li>Large language models and foundation models for hardware description languages (Verilog, VHDL, and SystemVerilog)</li>
+<li>Agentic systems for chip design workflows with tool use (linters, synthesizers, simulators, timing analyzers, etc.)</li>
+<li>Reproducible benchmarks, datasets, and open-source infrastructure</li>
+<li>Societal, educational, and workforce aspects of AI-driven chip design</li>
 </ul>
+<p>We particularly encourage submissions that promote reproducibility through open-source code, datasets, model weights, evaluation frameworks, or other openly available research artifacts.</p>
 </section>
 <section id="contact-1" class="level2">
 <h2 class="anchored" data-anchor-id="contact-1">Contact</h2>
@@ -326,7 +332,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/NeurIPS-AI-for-Chip-Design-2026\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
