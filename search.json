@@ -140,10 +140,17 @@
     "text": "Reviewer Guidelines\nReviewers are expected to:\n\nProvide constructive and respectful feedback.\nMaintain confidentiality of submitted manuscripts.\nAvoid conflicts of interest.\nComplete reviews within the assigned timeline.\n\nReviewers must not use external generative AI systems to review submissions or process confidential paper content, in accordance with the NeurIPS 2026 policies."
   },
   {
-    "objectID": "pages/sponsors.html",
-    "href": "pages/sponsors.html",
+    "objectID": "pages/sponsors.html#industry-sponsors",
+    "href": "pages/sponsors.html#industry-sponsors",
     "title": "Sponsors",
-    "section": "",
-    "text": "Our sponsors will be announced soon."
+    "section": "Industry Sponsors",
+    "text": "Industry Sponsors\nWe are currently seeking industry partners to support this workshop. If you are interested in sponsoring, please contact us at neurips-ai-chip-design-2026@bsc.es."
+  },
+  {
+    "objectID": "pages/sponsors.html#supporting-entities",
+    "href": "pages/sponsors.html#supporting-entities",
+    "title": "Sponsors",
+    "section": "Supporting Entities",
+    "text": "Supporting Entities\n\n\n\n\nELLIOT"
   }
 ]
