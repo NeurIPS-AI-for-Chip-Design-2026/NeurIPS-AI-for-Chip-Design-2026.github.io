@@ -235,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="submission-instructions">Submission Instructions</h2>
 <p>Submissions will be managed through <strong>OpenReview</strong>.</p>
 <p><strong>Submission portal:</strong> <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4ChipDesign">OpenReview</a></p>
-<p>Please use the official NeurIPS 2026 style files and formatting guidelines.</p>
+<p>Please use the official <a href="https://neurips.cc/Conferences/2026/PaperInformation/StyleFiles">NeurIPS 2026 style files</a> and formatting guidelines.</p>
 </section>
 <section id="review-process" class="level2">
 <h2 class="anchored" data-anchor-id="review-process">Review Process</h2>
@@ -385,7 +385,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/NeurIPS-AI-for-Chip-Design-2026\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

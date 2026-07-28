@@ -4,4 +4,13 @@ title: "Sponsors"
 
 ![](../images/other/banner.png){width=100%}
 
-Our sponsors will be announced soon.
+## Industry Sponsors
+
+We are currently seeking industry partners to support this workshop. If you are interested in sponsoring, please contact us at neurips-ai-chip-design-2026@bsc.es.
+
+## Supporting Entities
+
+::: {.text-center}
+[![ELLIOT](../images/other/elliot.png)](https://www.elliot-ai.eu/){width=200px}
+:::
+
