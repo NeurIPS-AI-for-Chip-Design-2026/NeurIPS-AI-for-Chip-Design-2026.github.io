@@ -4,4 +4,22 @@ title: "Speakers"
 
 ![](../images/other/banner.png){width=100%}
 
-Our invited speakers will be announced soon.
+## Confirmed Speakers
+
+::: {.speaker-card}
+::: {.speaker-info}
+**Subhasish Mitra** — *Stanford University*
+:::
+William E. Ayer Endowed Chair Professor of EE and CS, directing the Stanford Robust Systems Group and working on the leadership team of the Microelectronics Commons AI Hardware Hub. Fellow of the ACM and IEEE.
+:::
+
+
+::: {.speaker-card}
+::: {.speaker-info}
+**Xing Hu** — *Institute of Computing Technology, Chinese Academy of Sciences*
+:::
+Associate professor working at the intersection of computer architecture and machine learning, with a focus on efficient, robust AI systems and AI-driven chip design.
+:::
+
+Additional speakers will be announced soon.
+

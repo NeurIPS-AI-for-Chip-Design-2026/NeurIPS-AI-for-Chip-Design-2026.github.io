@@ -140,13 +140,6 @@
     "text": "Reviewer Guidelines\nReviewers are expected to:\n\nProvide constructive and respectful feedback.\nMaintain confidentiality of submitted manuscripts.\nAvoid conflicts of interest.\nComplete reviews within the assigned timeline.\n\nReviewers must not use external generative AI systems to review submissions or process confidential paper content, in accordance with the NeurIPS 2026 policies."
   },
   {
-    "objectID": "pages/sponsors.html",
-    "href": "pages/sponsors.html",
-    "title": "Sponsors",
-    "section": "",
-    "text": "Our sponsors will be announced soon."
-  },
-  {
     "objectID": "pages/sponsors.html#industry-sponsors",
     "href": "pages/sponsors.html#industry-sponsors",
     "title": "Sponsors",
@@ -159,5 +152,12 @@
     "title": "Sponsors",
     "section": "Supporting Entities",
     "text": "Supporting Entities\n\n\n\n\nELLIOT"
+  },
+  {
+    "objectID": "pages/speakers.html#confirmed-speakers",
+    "href": "pages/speakers.html#confirmed-speakers",
+    "title": "Speakers",
+    "section": "Confirmed Speakers",
+    "text": "Confirmed Speakers\n\n\nXing Hu — Institute of Computing Technology, Chinese Academy of Sciences\n\nAssociate professor working at the intersection of computer architecture and machine learning, with a focus on efficient, robust AI systems and AI-driven chip design.\n\n\n\nSubhasish Mitra — Stanford University\n\nWilliam E. Ayer Endowed Chair Professor of EE and CS, directing the Stanford Robust Systems Group and working on the leadership team of the Microelectronics Commons AI Hardware Hub. Fellow of the ACM and IEEE.\n\nAdditional speakers will be announced soon."
   }
 ]
