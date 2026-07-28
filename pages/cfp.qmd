@@ -46,7 +46,7 @@ Submissions will be managed through **OpenReview**.
 
 **Submission portal:** [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4ChipDesign)
 
-Please use the official NeurIPS 2026 style files and formatting guidelines.
+Please use the official [NeurIPS 2026 style files](https://neurips.cc/Conferences/2026/PaperInformation/StyleFiles) and formatting guidelines.
 
 ## Review Process
 

@@ -70,8 +70,6 @@ The goal is to foster discussion between the machine learning, electronic design
 
 ## Submission
 
-Submissions will be handled through OpenReview.
-
 Submissions are now open! You can submit your work via [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4ChipDesign).
 
 ## Topics of Interest
