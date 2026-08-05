@@ -1,68 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AI for Chip Design",
-    "section": "",
-    "text": "NeurIPS 2026 Workshop\nDate & Location: December 2026, Paris, France.\nThis workshop brings together researchers and practitioners working at the intersection of artificial intelligence and semiconductor design.\nThe workshop will explore advances in machine learning methods for chip design, including emerging AI-driven approaches for design automation, optimization, verification, and hardware-aware learning.\nThe goal is to foster discussion between the machine learning, electronic design automation, and hardware communities, and to identify new opportunities for AI-enabled chip development."
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "AI for Chip Design",
-    "section": "News",
-    "text": "News\n\nJuly 26th 2026 - Submission site open\nJuly 22nd 2026 - Call for Papers published\nJuly 12th 2026 - Workshop accepted at NeurIPS 2026, Paris venue."
-  },
-  {
-    "objectID": "index.html#submission",
-    "href": "index.html#submission",
-    "title": "AI for Chip Design",
-    "section": "Submission",
-    "text": "Submission\nSubmissions are now open! You can submit your work via OpenReview."
-  },
-  {
-    "objectID": "index.html#topics-of-interest",
-    "href": "index.html#topics-of-interest",
-    "title": "AI for Chip Design",
-    "section": "Topics of Interest",
-    "text": "Topics of Interest\nTopics include, but are not limited to:\n\nMachine learning for physical design: placement, routing, and floorplanning\nML for RTL, logic synthesis, and technology mapping\nTiming, power, and area prediction and optimization\nGraph neural networks for circuits and netlists\nGenerative models (e.g., diffusion, flow matching) for layout and design\nReinforcement learning for EDA tasks, including script generation, testbench production, and module completion\nLarge language models and foundation models for hardware description languages (Verilog, VHDL, and SystemVerilog)\nAgentic systems for chip design workflows with tool use (linters, synthesizers, simulators, timing analyzers, etc.)\nReproducible benchmarks, datasets, and open-source infrastructure\nSocietal, educational, and workforce aspects of AI-driven chip design\n\nWe particularly encourage submissions that promote reproducibility through open-source code, datasets, model weights, evaluation frameworks, or other openly available research artifacts."
-  },
-  {
-    "objectID": "index.html#contact-1",
-    "href": "index.html#contact-1",
-    "title": "AI for Chip Design",
-    "section": "Contact",
-    "text": "Contact\nFor questions, please contact: neurips-ai-chip-design-2026@bsc.es"
-  },
-  {
-    "objectID": "pages/contact.html",
-    "href": "pages/contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "For questions, please contact: neurips-ai-chip-design-2026@bsc.es"
-  },
-  {
-    "objectID": "pages/speakers.html#confirmed-speakers",
-    "href": "pages/speakers.html#confirmed-speakers",
-    "title": "Speakers",
-    "section": "Confirmed Speakers",
-    "text": "Confirmed Speakers\n\n\n\nSubhasish Mitra — Stanford University\n\nWilliam E. Ayer Endowed Chair Professor of EE and CS, directing the Stanford Robust Systems Group and working on the leadership team of the Microelectronics Commons AI Hardware Hub. Fellow of the ACM and IEEE.\n\n\n\n\nXing Hu — Institute of Computing Technology, Chinese Academy of Sciences\n\nAssociate professor working at the intersection of computer architecture and machine learning, with a focus on efficient, robust AI systems and AI-driven chip design.\nTalk: “Qimeng: Chip Design in the Age of Foundation Models”\n\nAdditional speakers will be announced soon."
-  },
-  {
-    "objectID": "pages/organizers.html",
-    "href": "pages/organizers.html",
-    "title": "Organizers",
-    "section": "",
-    "text": "The NeurIPS 2026 Workshop on AI for Chip Design is organized by researchers from academia and industry working at the intersection of machine learning, electronic design automation, and semiconductor systems."
-  },
-  {
-    "objectID": "pages/organizers.html#organizing-committee",
-    "href": "pages/organizers.html#organizing-committee",
-    "title": "Organizers",
-    "section": "Organizing Committee",
-    "text": "Organizing Committee\n\n\n\n\nDario Garcia-Gasulla\nBarcelona Supercomputing Center (BSC)\nGoogle Scholar | LinkedIn\n\n\n\nGokcen Kestor\nBarcelona Supercomputing Center (BSC)\nGoogle Scholar\n\n\n\nEmanuele Parisi\nBarcelona Supercomputing Center (BSC)\nGoogle Scholar\n\n\n\nZhiyao Xie\nHong Kong University of Science and Technology (HKUST)\nGoogle Scholar\n\n\n\nLuca Benini\n\nETH Zürich & Università di Bologna\nGoogle Scholar | LinkedIn\n\n\n\nLeighanne Clevenger\nSilicon Integration Initiative (Si2)\nGoogle Scholar\n\n\n\nCong (Callie) Hao\nGeorgia Institute of Technology\nGoogle Scholar"
-  },
-  {
     "objectID": "pages/cfp.html#overview",
     "href": "pages/cfp.html#overview",
     "title": "Call for Papers",
@@ -112,6 +49,83 @@
     "text": "Submission Details\n\nTracks\n\n\n\nTrack\nLength\nFormat\n\n\n\n\nResearch Papers\n7–9 pages\nNeurIPS format\n\n\nPoster Papers\n3–4 pages\nNeurIPS format\n\n\n\nSubmission Notes:\n\nPage limits exclude references.\nAll submissions will receive at least three double-blind reviews.\nAuthors may opt for archival or non-archival publication at submission time.\nPoster submissions may include position papers, exploratory work, highly experimental research, or applied research contributions.\n\n\n\nAI Policies\nThis workshop follows the NeurIPS 2026 policies regarding the use of Large Language Models (LLMs).\nFor Authors: Authors may use LLMs in accordance with the NeurIPS 2026 policy. Authors remain fully responsible for the correctness, originality, and integrity of their submissions. Papers containing fabricated, hallucinated, or misleading content may be rejected.\nFor Reviewers: Reviewers must not use LLMs or other generative AI systems to review submissions or upload confidential manuscripts to external AI services. This workshop does not adopt the optional AI-assisted reviewing experiment described for parts of the NeurIPS 2026 main conference."
   },
   {
+    "objectID": "pages/sponsors.html#industry-sponsors",
+    "href": "pages/sponsors.html#industry-sponsors",
+    "title": "Sponsors",
+    "section": "Industry Sponsors",
+    "text": "Industry Sponsors\nWe are currently seeking industry partners to support this workshop. If you are interested in sponsoring, please contact us at neurips-ai-chip-design-2026@bsc.es."
+  },
+  {
+    "objectID": "pages/sponsors.html#supporting-entities",
+    "href": "pages/sponsors.html#supporting-entities",
+    "title": "Sponsors",
+    "section": "Supporting Entities",
+    "text": "Supporting Entities\n\n\n\n\nELLIOT"
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For questions, please contact: neurips-ai-chip-design-2026@bsc.es"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI for Chip Design",
+    "section": "",
+    "text": "NeurIPS 2026 Workshop\nDate & Location: December 2026, Paris, France.\nThis workshop brings together researchers and practitioners working at the intersection of artificial intelligence and semiconductor design.\nThe workshop will explore advances in machine learning methods for chip design, including emerging AI-driven approaches for design automation, optimization, verification, and hardware-aware learning.\nThe goal is to foster discussion between the machine learning, electronic design automation, and hardware communities, and to identify new opportunities for AI-enabled chip development."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "AI for Chip Design",
+    "section": "News",
+    "text": "News\n\nJuly 26th 2026 - Submission site open\nJuly 22nd 2026 - Call for Papers published\nJuly 12th 2026 - Workshop accepted at NeurIPS 2026, Paris venue."
+  },
+  {
+    "objectID": "index.html#submission",
+    "href": "index.html#submission",
+    "title": "AI for Chip Design",
+    "section": "Submission",
+    "text": "Submission\nSubmissions are now open! You can submit your work via OpenReview."
+  },
+  {
+    "objectID": "index.html#topics-of-interest",
+    "href": "index.html#topics-of-interest",
+    "title": "AI for Chip Design",
+    "section": "Topics of Interest",
+    "text": "Topics of Interest\nTopics include, but are not limited to:\n\nMachine learning for physical design: placement, routing, and floorplanning\nML for RTL, logic synthesis, and technology mapping\nTiming, power, and area prediction and optimization\nGraph neural networks for circuits and netlists\nGenerative models (e.g., diffusion, flow matching) for layout and design\nReinforcement learning for EDA tasks, including script generation, testbench production, and module completion\nLarge language models and foundation models for hardware description languages (Verilog, VHDL, and SystemVerilog)\nAgentic systems for chip design workflows with tool use (linters, synthesizers, simulators, timing analyzers, etc.)\nReproducible benchmarks, datasets, and open-source infrastructure\nSocietal, educational, and workforce aspects of AI-driven chip design\n\nWe particularly encourage submissions that promote reproducibility through open-source code, datasets, model weights, evaluation frameworks, or other openly available research artifacts."
+  },
+  {
+    "objectID": "index.html#contact-1",
+    "href": "index.html#contact-1",
+    "title": "AI for Chip Design",
+    "section": "Contact",
+    "text": "Contact\nFor questions, please contact: neurips-ai-chip-design-2026@bsc.es"
+  },
+  {
+    "objectID": "pages/organizers.html",
+    "href": "pages/organizers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "The NeurIPS 2026 Workshop on AI for Chip Design is organized by researchers from academia and industry working at the intersection of machine learning, electronic design automation, and semiconductor systems."
+  },
+  {
+    "objectID": "pages/organizers.html#organizing-committee",
+    "href": "pages/organizers.html#organizing-committee",
+    "title": "Organizers",
+    "section": "Organizing Committee",
+    "text": "Organizing Committee\n\n\n\n\nDario Garcia-Gasulla\nBarcelona Supercomputing Center (BSC)\nGoogle Scholar | LinkedIn\n\n\n\nGokcen Kestor\n\nBarcelona Supercomputing Center (BSC)\nGoogle Scholar\n\n\n\nEmanuele Parisi\nBarcelona Supercomputing Center (BSC)\nGoogle Scholar\n\n\n\nZhiyao Xie\nHong Kong University of Science and Technology (HKUST)\nGoogle Scholar\n\n\n\nLuca Benini\n\nETH Zürich & Università di Bologna\nGoogle Scholar | LinkedIn\n\n\n\nLeighanne Clevenger\nSilicon Integration Initiative (Si2)\nGoogle Scholar\n\n\n\nCong (Callie) Hao\nGeorgia Institute of Technology\nGoogle Scholar"
+  },
+  {
+    "objectID": "pages/speakers.html#confirmed-speakers",
+    "href": "pages/speakers.html#confirmed-speakers",
+    "title": "Speakers",
+    "section": "Confirmed Speakers",
+    "text": "Confirmed Speakers\n\n\n\nSubhasish Mitra — Stanford University\n\nWilliam E. Ayer Endowed Chair Professor of EE and CS, directing the Stanford Robust Systems Group and working on the leadership team of the Microelectronics Commons AI Hardware Hub. Fellow of the ACM and IEEE.\n\n\n\n\nXing Hu — Institute of Computing Technology, Chinese Academy of Sciences\n\nAssociate professor working at the intersection of computer architecture and machine learning, with a focus on efficient, robust AI systems and AI-driven chip design.\nTalk: “Qimeng: Chip Design in the Age of Foundation Models”\n\nAdditional speakers will be announced soon."
+  },
+  {
     "objectID": "pages/committee.html",
     "href": "pages/committee.html",
     "title": "Program Committee",
@@ -138,19 +152,5 @@
     "title": "Program Committee",
     "section": "Reviewer Guidelines",
     "text": "Reviewer Guidelines\nReviewers are expected to:\n\nProvide constructive and respectful feedback.\nMaintain confidentiality of submitted manuscripts.\nAvoid conflicts of interest.\nComplete reviews within the assigned timeline.\n\nReviewers must not use external generative AI systems to review submissions or process confidential paper content, in accordance with the NeurIPS 2026 policies."
-  },
-  {
-    "objectID": "pages/sponsors.html#industry-sponsors",
-    "href": "pages/sponsors.html#industry-sponsors",
-    "title": "Sponsors",
-    "section": "Industry Sponsors",
-    "text": "Industry Sponsors\nWe are currently seeking industry partners to support this workshop. If you are interested in sponsoring, please contact us at neurips-ai-chip-design-2026@bsc.es."
-  },
-  {
-    "objectID": "pages/sponsors.html#supporting-entities",
-    "href": "pages/sponsors.html#supporting-entities",
-    "title": "Sponsors",
-    "section": "Supporting Entities",
-    "text": "Supporting Entities\n\n\n\n\nELLIOT"
   }
 ]
