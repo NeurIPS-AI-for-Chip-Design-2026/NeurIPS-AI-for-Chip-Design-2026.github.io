@@ -24,6 +24,8 @@ Barcelona Supercomputing Center (BSC)
 
 ### Gokcen Kestor
 
+![](../images/organizers/gokcen_kestor.png){width=150}
+
 Barcelona Supercomputing Center (BSC)
 
 [Google Scholar](https://scholar.google.com/citations?user=KkMYGc0AAAAJ)
