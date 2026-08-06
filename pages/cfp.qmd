@@ -89,7 +89,7 @@ Additional speakers will be announced soon.
 
 - Page limits exclude references.
 - All submissions will receive **at least three double-blind reviews**.
-- Authors may opt for **archival** or **non-archival** publication at submission time.
+- This workshop is non-archival as per NeurIPS definition (papers won't be available in NeurIPS proceedings). Accepted papers will be publicly posted with PDFs on OpenReview, which may be indexed by search engines and bibliographic databases.
 - Poster submissions may include position papers, exploratory work, highly experimental research, or applied research contributions.
 
 ### AI Policies
