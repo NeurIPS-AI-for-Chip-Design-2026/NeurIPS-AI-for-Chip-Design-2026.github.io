@@ -18,6 +18,8 @@ title: "Speakers"
 
 William E. Ayer Endowed Chair Professor of EE and CS, directing the Stanford Robust Systems Group and working on the leadership team of the Microelectronics Commons AI Hardware Hub. Fellow of the ACM and IEEE.
 
+**Talk: “New AI-Ready Verification Enables AI-Boosted Chip Design"**
+
 :::
 
 
