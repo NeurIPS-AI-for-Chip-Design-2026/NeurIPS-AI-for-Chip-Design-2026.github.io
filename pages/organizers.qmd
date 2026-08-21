@@ -24,7 +24,7 @@ Barcelona Supercomputing Center (BSC)
 
 ### Gokcen Kestor
 
-![](../images/organizers/gokcen_kestor.png){width=150}
+![](../images/organizers/gokcen_kestor_round.png){width=150}
 
 Barcelona Supercomputing Center (BSC)
 
@@ -62,9 +62,11 @@ ETH Zürich & Università di Bologna
 
 ### Leighanne Clevenger
 
+![](../images/organizers/Clevenger_headshot_round.png){width=150}
+
 Silicon Integration Initiative (Si2)
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=NtlHISkAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=NtlHISkAAAAJ) | [LinkedIn](https://www.linkedin.com/in/leighanneclevenger/)
 
 ---
 
