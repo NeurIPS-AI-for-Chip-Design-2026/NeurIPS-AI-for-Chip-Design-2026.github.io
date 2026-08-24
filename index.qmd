@@ -56,7 +56,7 @@ The goal is to foster discussion between the machine learning, electronic design
 
 | Event | Date |
 | --- | --- |
-| Paper & Poster Submission | **August 30, 2026 (AoE)** |
+| Paper & Poster Submission | **August 31, 2026 (AoE)** |
 | Notification | **September 29, 2026 (AoE)** |
 | Camera-ready Deadline | **October 9, 2026 (AoE)** |
 | Workshop | **December 12th, 2026, Paris** |
@@ -76,8 +76,8 @@ Submissions are now open! You can submit your work via [OpenReview](https://open
 
 Topics include, but are not limited to:
 
-  * Machine learning for physical design: placement, routing, and floorplanning
-  * ML for RTL, logic synthesis, and technology mapping
+ * Machine learning for physical design: placement, routing, and floorplanning
+ * ML for RTL, logic synthesis, and technology mapping
  * Timing, power, and area prediction and optimization
  * Graph neural networks for circuits and netlists
  * Generative models (e.g., diffusion, flow matching) for layout and design
