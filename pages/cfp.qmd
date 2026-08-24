@@ -88,6 +88,7 @@ Additional speakers will be announced soon.
 **Submission Notes:**
 
 - Page limits exclude references.
+- There is no limit on the length of appendices, but reviewers are encouraged not to take them into account for scoring the paper.
 - All submissions will receive **at least three double-blind reviews**.
 - This workshop is non-archival as per NeurIPS definition (papers won't be available in NeurIPS proceedings). Accepted papers will be publicly posted with PDFs on OpenReview, which may be indexed by search engines and bibliographic databases.
 - Poster submissions may include position papers, exploratory work, highly experimental research, or applied research contributions.
