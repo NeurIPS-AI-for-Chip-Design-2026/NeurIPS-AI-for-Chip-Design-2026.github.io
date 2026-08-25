@@ -12,5 +12,6 @@ We are currently seeking industry partners to support this workshop. If you are 
 
 ::: {.text-center}
 [![ELLIOT](../images/other/elliot.png)](https://www.elliot-ai.eu/){width=200px}
+[![Chipmind](../images/other/chipmind_logo.png)](https://www.chipmind.ai/){width=200px}
 :::
 
