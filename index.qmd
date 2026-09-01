@@ -64,6 +64,7 @@ The goal is to foster discussion between the machine learning, electronic design
 
 ## News
 
+- **August 31st 2026** - 85 submissions by deadline
 - **July 26th 2026** - Submission site open
 - **July 22nd 2026** - Call for Papers published
 - **July 12th 2026** - Workshop accepted at NeurIPS 2026, Paris venue.
