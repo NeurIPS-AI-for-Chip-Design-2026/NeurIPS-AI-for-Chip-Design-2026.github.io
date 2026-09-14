@@ -92,6 +92,7 @@ Additional speakers will be announced soon.
 - All submissions will receive **at least three double-blind reviews**.
 - This workshop is non-archival as per NeurIPS definition (papers won't be available in NeurIPS proceedings). Accepted papers will be publicly posted with PDFs on OpenReview, which may be indexed by search engines and bibliographic databases.
 - Poster submissions may include position papers, exploratory work, highly experimental research, or applied research contributions.
+- All papers and posters are to be presented in person. Works which fail to have an in person presenter will be removed from the workshop.
 
 ### AI Policies
 This workshop follows the **NeurIPS 2026** policies regarding the use of Large Language Models (LLMs).
