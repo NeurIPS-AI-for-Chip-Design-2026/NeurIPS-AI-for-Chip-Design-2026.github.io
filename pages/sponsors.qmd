@@ -8,6 +8,7 @@ title: "Sponsors"
 
 ::: {.text-center}
 [![Chipmind](../images/other/chipmind_logo.png)](https://www.chipmind.ai/){width=200px}
+[![ChipNexus](../images/other/chipnexus-logo.png)](https://chipnexus.ai/){width=200px}
 :::
 
 We are currently seeking industry partners to support this workshop. If you are interested in sponsoring, please contact us at neurips-ai-chip-design-2026@bsc.es.
