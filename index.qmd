@@ -65,6 +65,7 @@ The goal is to foster discussion between the machine learning, electronic design
 
 ## News
 
+- **October 1st 2026** - Accepted papers notified (acceptance rate: 36.4%)
 - **August 31st 2026** - 85 submissions by deadline
 - **July 26th 2026** - Submission site open
 - **July 22nd 2026** - Call for Papers published
@@ -72,7 +73,7 @@ The goal is to foster discussion between the machine learning, electronic design
 
 ## Submission
 
-Submissions are now open! You can submit your work via [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4ChipDesign).
+Submission is now closed. Accepted papers have been notified.
 
 ## Topics of Interest
 
