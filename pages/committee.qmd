@@ -10,7 +10,48 @@ Outstanding reviewer/s will be recognized by the organizers with a free NeurIPS 
 
 ## Program Committee Members
 
-The committee will be announced soon.
+The workshop organizers gratefully acknowledge the Program Committee members who contributed reviews during the peer-review process:
+
+- Miquel Alberti-Binimelis — Universitat Politècnica de Catalunya
+- Aman Arora — Arizona State University
+- Yunsheng Bai — NVIDIA
+- Lukas Cavigelli — Huawei Technologies
+- Jianyi Cheng — University of Edinburgh
+- Serena Curzel — Polytechnic Institute of Milan
+- Caiwen Ding — University of Minnesota - Twin Cities
+- Jan Ole Ernst — Normal Computing
+- Pierre-Emmanuel Gaillardon — University of Utah
+- Roberto Gioiosa — NVIDIA
+- Razine Moundir Ghorab — Barcelona Supercomputing Center
+- Cristian Gutierrez-Gomez — Barcelona Supercomputing Center
+- Omar Hammami — ENSTA Paris
+- Chia-Tung Ho — NVIDIA
+- Hadi Kamali — University of Central Florida
+- Anand Kane — Meta
+- Victor Kravets — IBM
+- Bing Li — Technische Universität Ilmenau
+- Yawei Li — Nanyang Technological University
+- Ting Jung Lin — Eastern Institute of Technology
+- Guillem Lopez-Paradis — Universitat Politècnica de Catalunya
+- Colin McKellar — lowRISC
+- Sromana Mukhopadhyay — BlockQuest Labs Inc.
+- Robert D. Mullins — University of Cambridge
+- Daniele Jahier Pagliari — Politecnico di Torino
+- Rajeev Patwari — Advanced Micro Devices
+- Madhura Purnaprajna — Advanced Micro Devices
+- Jeyavijayan Rajendran — Texas A&M Engineering Experiment Station
+- Rajath Salegame — Normal Computing
+- Mehdi Saligane — Brown University
+- Ulf Schlichtmann — Technical University of Munich
+- Benaoumeur Senouci — University of Southern Denmark
+- Lorenzo Servadei — Technical University of Munich
+- Geert D.J. Smit — NXP Semiconductors
+- Valerio Tenace — University of Utah
+- Antonino Tumeo — Pacific Northwest National Laboratory
+- Pedro Valero-Lara — Oak Ridge National Laboratory
+- Qiang Xu — The Chinese University of Hong Kong
+- Cunxi Yu — University of Maryland, College Park
+- Jeff Zhang — Arizona State University
 
 
 ## Reviewing Process
