@@ -11,6 +11,12 @@ page-layout: full
 **Date & Location:** December 12th, 2026, Palais des Congrès de Paris, 2 Pl. de la Porte Maillot, 75017 Paris, France.
 :::
 
+::: {.callout-warning appearance="simple" icon="true"}
+## ⚠️ Venue Change
+
+The workshop will now be held at the **Palais des Congrès de Paris** — the same venue as the main NeurIPS 2026 conference — and **not** at Sorbonne University (Jussieu) as previously announced. Please update your travel plans accordingly.
+:::
+
 ::: {.quick-links-grid}
 ::: {.quick-link-card}
 ### [Call for Papers](pages/cfp.qmd)
@@ -65,6 +71,7 @@ The goal is to foster discussion between the machine learning, electronic design
 
 ## News
 
+- **November 12th 2026** - Venue change: the workshop moves to the Palais des Congrès de Paris, same venue as the main NeurIPS 2026 conference.
 - **October 1st 2026** - Accepted papers notified (acceptance rate: 36.4%)
 - **August 31st 2026** - 85 submissions by deadline
 - **July 26th 2026** - Submission site open
