@@ -11,6 +11,12 @@ page-layout: full
 **Date & Location:** December 12th, 2026, Palais des Congrès de Paris, 2 Pl. de la Porte Maillot, 75017 Paris, France.
 :::
 
+::: {.callout-note appearance="simple" icon="true"}
+## 📄 Camera-Ready Papers Are Out!
+
+The camera-ready versions of the accepted papers are now available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4ChipDesign). Check out the accepted work!
+:::
+
 ::: {.callout-warning appearance="simple" icon="true"}
 ## ⚠️ Venue Change
 
