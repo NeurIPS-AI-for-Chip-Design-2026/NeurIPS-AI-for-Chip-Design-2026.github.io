@@ -71,6 +71,7 @@ The goal is to foster discussion between the machine learning, electronic design
 
 ## News
 
+- **November 16th 2026** - Camera-ready papers are now available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4ChipDesign).
 - **November 12th 2026** - Venue change: the workshop moves to the Palais des Congrès de Paris, same venue as the main NeurIPS 2026 conference.
 - **October 1st 2026** - Accepted papers notified (acceptance rate: 36.4%)
 - **August 31st 2026** - 85 submissions by deadline
@@ -80,7 +81,7 @@ The goal is to foster discussion between the machine learning, electronic design
 
 ## Submission
 
-Submission is now closed. Accepted papers have been notified.
+Submission is now closed. Accepted papers have been notified, and camera-ready papers are available on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/AI4ChipDesign).
 
 ## Topics of Interest
 
